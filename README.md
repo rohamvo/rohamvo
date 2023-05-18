@@ -1,7 +1,6 @@
 # INFORMATION
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=rohamvo&show_icons=true&theme=radical)](https://github.com/rohamvo)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohamvo)](https://github.com/rohamvo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Python](https://img.shields.io/badge/-MySql-1F305F?style=flat-square&logo=MySql&logoColor=white)
 <img src="https://img.shields.io/badge/-Python-87CEEB?style=flat-square&logo=Python&logoColor=blue"/>
