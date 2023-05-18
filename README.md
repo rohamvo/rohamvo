@@ -8,4 +8,4 @@
 <img src="https://img.shields.io/badge/-googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
 <img src="https://img.shields.io/badge/-jupyter-F37626?style=flat&logo=jupyter&logoColor=black"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohamvo)](https://github.com/rohamvo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohamvo)](https://github.com/rohamvo/github-readme-stats)
