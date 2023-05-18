@@ -9,3 +9,4 @@
 <img src="https://img.shields.io/badge/-jupyter-F37626?style=flat&logo=jupyter&logoColor=black"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohamvo)](https://github.com/rohamvo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohamvo&hide_progress=true)](https://github.com/rohamvo/github-readme-stats)
